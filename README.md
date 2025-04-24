@@ -12,6 +12,10 @@ The analysis also found a positive correlation between freight costs and on-time
 
 The problem statement for this analysis is to explore FedEx's shipment data to identify key factors influencing on-time delivery performance, analyze the relationship between shipment modes and freight costs, and uncover patterns that can help optimize logistics operations. The goal is to provide actionable insights for improving operational efficiency, reducing costs, and enhancing customer satisfaction.
 
+# Link to Dataset
+
+https://drive.google.com/file/d/1G3sg45qaljQ9w-bB5i4-n7QAM59cR4xN/view
+
 # Business Objective
 
 The business objective of this analysis is to identify factors affecting on-time delivery performance, optimize logistics operations, and reduce costs for FedEx. By analyzing shipment modes, freight costs, and delivery timelines, the goal is to provide data-driven recommendations that enhance operational efficiency, improve customer satisfaction, and support informed decision-making in logistics management. The insights gained will help streamline processes, reduce delays, and ultimately contribute to improving profitability and competitiveness in the logistics industry.
